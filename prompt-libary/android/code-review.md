@@ -33,4 +33,3 @@ class LoginViewModel : ViewModel() {
 ```
 
 Please review this from the perspective above.
-```
